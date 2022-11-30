@@ -1,0 +1,3 @@
+# VSDomzadfnie
+
+* Инструкция к Git
